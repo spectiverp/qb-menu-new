@@ -4,4 +4,5 @@ This was edited by Generative Gaming
 To change any colours, go to HTML>Style.css and look for background-color and color for text and background colors.... Box-shadow for the outer glow. 
 To remove animations you will need to remove the keyframes from CSS
 
+Picture of how it looks:
 https://i.imgur.com/GeiRU9y.png
